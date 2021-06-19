@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gizemboskan" alt="gizemboskan" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Swift, UIKit and SwiftUI.**
+- 🌱 I’m currently learning **Advanced Swift, UIKit & SwiftUI.**
 
 - 💬 Ask me about **Swift!**
 
