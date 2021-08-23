@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gizem!</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/cdZAGXI45pQ6Q/source.gif?cid=790b7611d741ef55c5ab21556e9d9fa4ab632f7c64dad018&rid=source.gif&ct=s" width="120"> </p>  I'm Gizem! </h1>
+
 <h3 align="center">iOS mobile application development enthusiast for some time now.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gizemboskan" alt="gizemboskan" /></a> </p>
