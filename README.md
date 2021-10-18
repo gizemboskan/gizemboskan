@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gizemboskan" alt="gizemboskan" /></a> </p> 
 
-- 🌱 I’m currently learning **RxSwift, UIKit & SwiftUI.**
+- 🌱 I’m currently learning **RxSwift.**
 
 - 💬 Ask me about **Swift!**
 
